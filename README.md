@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho com front-end
 - 📚 Estou estudando python
 - 💌 Contate-me no email: edson.adv16@gmail.com
-- 🤓 Link para o meu portifólio: https://github.com/joseedsondasilva
+- 🤓 Link para o meu portifólio: https://priceless-lumiere-64e519.netlify.app/
 
 
 ### Estou estudando no momento:
