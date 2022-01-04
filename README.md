@@ -1,6 +1,7 @@
 ## Olá!👋 Eu sou o José Edson, criador de conteúdo de programação e tecnologia.
 
 - 🔭 Hoje eu trabalho com front-end
+- 🖥️ Estou Disponível para ser contratado
 - 📚 Estou estudando python
 - 💌 Contate-me no email: edson.adv16@gmail.com
 - 🤓 Link para o meu portifólio: https://priceless-lumiere-64e519.netlify.app/
