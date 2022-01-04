@@ -3,6 +3,7 @@
 - 🔭 Hoje eu trabalho com front-end
 - 📚 Estou estudando python
 - 💌 Contate-me no email: edson.adv16@gmail.com
+- 🤓 Link para o meu portifólio: https://github.com/joseedsondasilva
 
 
 ### Estou estudando no momento:
@@ -19,6 +20,7 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=joseedsondasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseedsondasilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+![profile](https://user-images.githubusercontent.com/96803341/148033003-4b00616a-2968-4e1c-b4c6-bc89dc3d3257.gif)
 
 ### Pretendo estudar no futuro:
 
