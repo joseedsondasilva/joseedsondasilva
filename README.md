@@ -5,8 +5,7 @@
 - 📚 Estou estudando python
 - 💌 Contate-me no email: edson.adv16@gmail.com
 - 🤓 Link para o meu portifólio: https://priceless-lumiere-64e519.netlify.app/
-
- <img src="https://user-images.githubusercontent.com/96803341/153884903-d5903cb7-bc89-4dfb-ac21-bfae5d333e1e.png" alt="drawing" width="200"/>
+- <img src="https://user-images.githubusercontent.com/96803341/153884903-d5903cb7-bc89-4dfb-ac21-bfae5d333e1e.png" alt="drawing" width="300"/>
 
 ### Estou estudando no momento:
 
