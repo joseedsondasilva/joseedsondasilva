@@ -45,4 +45,3 @@
 ![Snake animation](https://github.com/joseedsondasilva/joseedsondasilva/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
